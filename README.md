@@ -21,3 +21,8 @@ This is the frontend for the AI Support Agent application, built with **Next.js*
 - **HTTP Client**: Axios
 - **Styling**: CSS Modules / Inline Styles
 - **State Management**: React Hooks
+
+![image](https://github.com/user-attachments/assets/2dc85585-2ba0-4bff-be55-f6fef4120db0)
+![image](https://github.com/user-attachments/assets/1fd664a2-8a6b-4043-ad49-066617ab279c)
+
+
